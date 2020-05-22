@@ -1,7 +1,6 @@
 # Kick-it-up
-CSCE 676: Data Mining and Analysis Project Repo
 
-# Project Website
+## Project Website
 https://sites.google.com/view/kickitup/home
 
 ## Introduction
@@ -13,10 +12,11 @@ We feel that there are many ideas that exist in the world that, for one reason o
 
 ## Questions to Answer?
 Through group discussion and previous literature review, we have determined that there are 4 main questions that we wish to address through this work. 
-* Perform sentiment analysis on both the project 'blurb' and 'name' sections of each project to determine if there is any relationship between the predicted sentiment and the success or failure of the project (need to define 'blurb' and 'name' at some point). 
-* Determine if there is a specific time of year when projects can be launched where they are more likely to be funded (need to define seasonally and quarterly somewhere). 
-* Find out whether projects with "small" goal amounts are more likely to be successful as compared to projects with "large" goal amounts. (need to define "small" relative to our dataset somewhere; maybe in the dataset section above)
-* See if duration impacts whether a project will be successful or not as compared to other duration lengths. 
+* Perform sentiment analysis on both the project 'blurb' and 'name' sections of each project to determine if there is any relationship between the predicted sentiment and the success or failure of the project.  
+* Determine if there is a specific time of year when projects can be launched where they are more likely to be funded.  
+* Find out whether projects with "small" goal amounts are more likely to be successful as compared to projects with "large" goal amounts.
+* See if duration impacts whether a project will be successful or not. We want to study the impact of various durations like the time gap between the creation of project of Kickstarter and its official launch date - when the owners start accepting funds. We also study the impact of campaign length which is the difference between the launch date and the deadline - date on which owners stop accepting the funds.
+
 ## To run the code
 All the csv files required to run the code are in the following
 [Google drive - csvs](https://drive.google.com/file/d/1PG1ZG7ye1I1Q20npMgH-UQP4PccTQ_w6/view?usp=sharing) link. The files extracted should be in the same folder as that of the code
